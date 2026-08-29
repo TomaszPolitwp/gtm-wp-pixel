@@ -1,7 +1,7 @@
 homepage: https://pixel.wp.pl
 documentation: https://pixel.wp.pl/docs/pl/examples.html
 versions:
-  - sha: PLACEHOLDER_SHA
+  - sha: 0433e622e63b25edd3816735e70d42d9f7e66a42
     changeNotes: >
       Initial release. Supports all WP Pixel ecommerce events: PageView,
       ProductList, ViewProduct, AddToCart, ViewCart, StartOrder, Purchase,
